@@ -1,4 +1,4 @@
-# yalu1Jailbrake
+# Jailbrake
 
 ![Yalu logo](https://github.com/kpwn/yalu102/blob/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true)
 
