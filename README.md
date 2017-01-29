@@ -52,7 +52,7 @@ If you are already on iOS 10.2 with an iPhone 7, **stay there**. The actual expl
 
 | Version | Download |
 |---------|----------|------|
-| Beta2  | [Link] https://www.dropbox.com/s/mdpm8wdfp0w5t4p/Jailbrake102_beta2.ipa?dl=0
+| Beta2  | [Link](https://www.dropbox.com/s/mdpm8wdfp0w5t4p/Jailbrake102_beta2.ipa?dl=0)
 
 ## Contributing
 
