@@ -50,6 +50,10 @@ If you are already on iOS 10.2 with an iPhone 7, **stay there**. The actual expl
 |---------|----------|------|
 | Alpha  | [Link](https://yalu.qwertyoruiop.com/yalu102_alpha.ipa) | 2FE14F1C1E1A0D26203BBB123F6747A978DD2B4F  |
 
+| Version | Download |
+|---------|----------|------|
+| Beta2  | [Link] https://www.dropbox.com/s/mdpm8wdfp0w5t4p/Jailbrake102_beta2.ipa?dl=0
+
 ## Contributing
 
 Create a fork of the repository, make your changes and then create a pull request.
