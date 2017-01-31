@@ -1,8 +1,6 @@
-# Jailbrake102
+# yalu1Jailbrake
 
-# btw: Jailbrake102 meen ios 10.0-10.2
-
-![Yalu logo](https://github.com/kpwn/yalu102/blob/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true)
+![Yalu logo](http://i.imgur.com/RV2HWoZb.jpg=true)
 
 A "work in progress" iOS jailbreak for 64-bit devices.
 
@@ -49,10 +47,6 @@ If you are already on iOS 10.2 with an iPhone 7, **stay there**. The actual expl
 | Version | Download | SHA1 |
 |---------|----------|------|
 | Alpha  | [Link](https://yalu.qwertyoruiop.com/yalu102_alpha.ipa) | 2FE14F1C1E1A0D26203BBB123F6747A978DD2B4F  |
-
-| Version | Download | All 64 bit minus i7 and iPad Air 2|
-|---------|----------|------|
-| Beta2  | [Link](https://www.dropbox.com/s/mdpm8wdfp0w5t4p/Jailbrake102_beta2.ipa?dl=0)
 
 ## Contributing
 
